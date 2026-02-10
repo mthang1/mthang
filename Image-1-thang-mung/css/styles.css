@@ -1,0 +1,12 @@
+img {
+    background-color: blue;
+    padding: 100px 50px;
+    margin: 50px;
+    border-radius: 50%;
+    
+}
+div{
+    background-color: green;
+    width: 50%;
+    border-radius: 13%;
+}

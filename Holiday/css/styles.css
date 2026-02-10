@@ -1,0 +1,54 @@
+
+h1{
+    text-align: center;
+    font-size: 50px;
+}
+
+
+div.diagonal{
+    
+    width: 0;
+    height: 0;
+border-right: 100vw solid transparent;
+border-bottom: 15vw solid grey;
+margin-top: -15.9vw;
+}
+
+section.top{
+    background-color: darkgray;
+  height: 700px;
+padding-top: 50px;
+padding-left: 100px;
+font-size: 50px;
+
+
+}
+
+
+
+section.bottom{
+    height: 1000px;
+    background-color: grey;
+    padding-right: 100px;
+    text-align: right;
+}
+
+img{
+    height: auto;
+    width: 300px;
+    padding-left: 2000px;
+    margin-top: -150px;
+}
+
+h1.center{
+    position: absolute;
+    font-size: 10em;
+    top: 35vh;
+    left: 45vw;
+}
+
+  
+  #bottompic{
+    margin-top: 10px;
+    padding-right: 500%;
+  }

@@ -1,0 +1,37 @@
+#title{
+   text-align: center;
+   color: green
+}
+body{
+   background-color: darkblue;
+}
+body{
+ 
+text-align: center;
+   padding-top: 40px;
+   margin-top: -40px;
+   color: green;
+}
+p { 
+    color: green;
+    width: 30.5%;
+     float: left;
+     padding-left: 15%;
+}
+
+
+#links{
+   text-align: center;
+   word-spacing: 100px;
+
+}
+
+#right{
+   float: right;
+   width: 40.5%;
+}
+
+img {
+   width: 35%;
+   
+}

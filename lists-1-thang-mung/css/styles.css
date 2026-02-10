@@ -1,0 +1,23 @@
+body{
+    width: 1366px;
+    height: 768px;
+    background-color: darkblue;
+    text-align: center;
+ }
+ div {
+    background-color: rgb(3, 45, 109);
+    margin: auto;
+    border: solid;
+    margin-bottom: 50px;
+ }
+#section{
+  width: 700px;
+  height: 600px;
+}
+hr {
+   width: 250px;
+}
+ol {
+  width: 50%;
+  margin: auto;
+}
