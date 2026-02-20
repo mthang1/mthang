@@ -48,3 +48,14 @@ div div {
    background-color: grey;
 }
 
+a.btn{
+   display:block;
+   width:150px;        
+ 
+ }
+ 
+ a.btn img{
+   width:120%;
+   margin-bottom: -95px;
+ }
+ 
