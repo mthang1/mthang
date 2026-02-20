@@ -35,3 +35,15 @@ img {
    width: 35%;
    
 }
+
+a.btn{
+   display:block;
+   width:150px;        
+
+ }
+ 
+ a.btn img{
+   width:120%;
+   margin-bottom: -1150px;
+ }
+ 
