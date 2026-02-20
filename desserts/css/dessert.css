@@ -1,0 +1,44 @@
+#title{
+    text-align: center;
+    color: darkblue
+ }
+ 
+ 
+ body{
+    background-color: beige;
+ }
+ 
+ 
+ #body{
+    
+    text-align: center;
+    padding-top: 40px;
+    margin-top: -40px;  
+ }
+ 
+ 
+ #body p {
+     font-size: 5;      
+     font-family: Arial, sans-serif;
+     margin: 20px auto;    
+     max-width: 500px;    
+     color: darkblue;
+ }
+ 
+ 
+ img{
+   width: 500px;
+ }
+ 
+ 
+a.btn{
+   display:block;
+   width:150px;        
+
+ }
+ 
+ a.btn img{
+   width:120%;
+   margin-bottom: -1120px;
+ }
+ 
