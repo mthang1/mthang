@@ -39,3 +39,14 @@ body {
     font-family: Arial, sans-serif;
 
 }
+a.btn{
+    display:block;
+    width:150px;        
+ 
+  }
+  
+  a.btn img{
+    width:120%;
+    margin-bottom: -1260px;
+  }
+  
