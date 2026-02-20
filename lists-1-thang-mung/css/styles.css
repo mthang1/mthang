@@ -21,3 +21,14 @@ ol {
   width: 50%;
   margin: auto;
 }
+a.btn{
+   display:block;
+   width:150px;        
+
+ }
+ 
+ a.btn img{
+   width:120%;
+   margin-bottom: -1150px;
+ }
+ 
