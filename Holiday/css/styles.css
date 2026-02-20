@@ -52,3 +52,15 @@ h1.center{
     margin-top: 10px;
     padding-right: 500%;
   }
+  a.btn{
+    display:block;
+    width:150px;        
+ 
+  }
+  
+  a.btn img{
+    width:120%;
+    margin-bottom: -1120px;
+    margin-left: -1970px;
+  }
+  
